@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
 	s.version = '3.0.999'
 	s.ios.vendored_frameworks = 'VoodooAdn.xcframework'
 
-	s.dependency 'OMSDK_Voodooio', '=1.5.2'
+	s.dependency 'OMSDK_Voodooio', '= 1.5.2'
 end
